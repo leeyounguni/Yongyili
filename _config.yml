@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "LI Yongyi/Personal Homepage"
+title                    : "LI Yongyi's homepage"
 title_separator          : "-"
 name                     : &name "LI Yongyi"
 description              : &description "personal description"
