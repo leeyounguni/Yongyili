@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: "LI Yongyi's homepage"
 title: "About me"
 author_profile: true
 redirect_from: 
