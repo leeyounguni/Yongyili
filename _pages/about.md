@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome to my homepage!
 
-I am currently an Postdoctoral Researcher in School of Engineering, Great Bay University. Prior to this, I got my PhD degree from [Institute of Deep Earth Sciences and Green Energy](http://www.desge.cn/) of Shenzhen University in Dec 2024. I completed my Bachelor’s degree in Civil Engineering at Guizhou university in June 2015, then I spent three years as a master student under the supervision of Prof.[Guoxiong Mei](http://oc.zju.edu.cn/2019/0614/c53762a2915097/page.htm) at Guangxi university. I also used to be an assistant civil engineer at [CCSHCC](https://www.ccshcc.cn/) between July 2018 and july 2020
+I am currently an Postdoctoral Researcher in PowerChina Guiyang Engineering Coporation Limited. Prior to this, I got my PhD degree from [Institute of Deep Earth Sciences and Green Energy](http://www.desge.cn/) of Shenzhen University in Dec 2024. I completed my Bachelor’s degree in Civil Engineering at Guizhou university in June 2015, then I spent three years as a master student under the supervision of Prof.[Guoxiong Mei](http://oc.zju.edu.cn/2019/0614/c53762a2915097/page.htm) at Guangxi university. I also used to be an assistant civil engineer at [CCSHCC](https://www.ccshcc.cn/) between July 2018 and july 2020
 
 Research Interests
 ======
