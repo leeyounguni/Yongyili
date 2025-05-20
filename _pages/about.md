@@ -38,13 +38,3 @@ Patents and Software Copyrights
 
 
 
-
-
-
-
-
-
-
-
-
-
