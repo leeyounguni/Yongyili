@@ -15,6 +15,10 @@ Research Interests
 ======
 My research focuses on the theoretical, numerical, and applied aspects of Thermo-Hydro-Mechanical (THM) coupling in deep energy resource development.
 
+Academic Appointments
+======
+Served as a reviewer for multiple high-level academic journals, including IEEE Transactions on Geoscience and Remote Sensing (JCR Q1, IF=7.5), Scientific Reports (JCR Q1, IF=3.8), International Journal of Data Science and Analytics (JCR Q2, IF=3.4), and PLoS One (JCR Q1, IF=2.9).
+
 Publications
 ======
 1、	Li Y, Long X and Lu J (2023) Evaluation of geothermal resources potential in the uplifted mountain of Guangdong province using the Monte Carlo simulation. Front. Earth Sci. 11:1233026. https://doi.org/10.3389/feart.2023.1233026 (JCR Q3 IF=2.9)\
