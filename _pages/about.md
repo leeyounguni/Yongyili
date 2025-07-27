@@ -13,7 +13,7 @@ I am currently an Postdoctoral Researcher in [Dongguan University of Technology(
 
 Research Interests
 ======
-My research focuses on the theoretical, numerical, and applied aspects of Thermo-Hydro-Mechanical (THM) coupling in deep energy resource development.
+My research interest focus on the methods and applications of thermo-mechanical-chemical-hydraulic multi-field coupling theory and multi-scale analysis in the development of renewable energy
 
 Academic Appointments
 ======
