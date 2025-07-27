@@ -21,15 +21,16 @@ Served as a reviewer for multiple high-level academic journals, including IEEE T
 
 Publications
 ======
-1、	Li Y, Long X and Lu J (2023) Evaluation of geothermal resources potential in the uplifted mountain of Guangdong province using the Monte Carlo simulation. Front. Earth Sci. 11:1233026. https://doi.org/10.3389/feart.2023.1233026 (JCR Q3 IF=2.9)\
-2、	Li Y, Ghaffar Ali and Abdul Rehman Akbar(2023).Advances in geothermal energy prospectivity mapping research based on machine learning in the age of big data. Sustainable Energy Technologies and Assessments. https://doi.org/10.1016/j.seta.2023.103550 (JCR Q1 IF=8) \
-3、	Akbar, A. R; Peng, G.; Li, Y.; Iqbal, R.; Saleem, A.; Wang, G.; Khan, A. S.; Ali, M.; Tahir, M.; Assiri, M. A.; Ali, G.; Liu, F. Hierarchical NiCo@NiOOH@CoMoO4 Core–Shell Heterostructure on Carbon Cloth for High-Performance Asymmetric Supercapacitors. Small 2023, 2304686. https://doi.org/10.1002/smll.202304686 (JCR Q1 IF=13.3)\
-4、	Xiong Y ,  Zhu M ,  Li Y , et al. Recognition of Geothermal Surface Manifestations: A Comparison of Machine Learning and Deep Learning[J]. Energies, 2022, 15. https://doi.org/10.3390/en15082913 (JCR Q3 IF=3.2)\
-5、	李勇义,冯健雪,梅国雄.连续排水边界下梯形循环荷载作用的一维固结解析解[J].工程力学,2019(02):134-140. (EI收录)\
-6、	冯健雪,陈征,李勇义,梅国雄. 连续排水边界条件下考虑自重的地基一维固结分析[J].工程力学,2019,36(05):184-191. (EI收录)\
-7、	冯健雪,陈征,李勇义,梅国雄. 连续排水边界条件下线性加载地基一维固结解[J].工程力学,2019,36(06):219-226. (EI收录)\
-8、	张国英,李勇义,李康. 连续排水边界下一维均质地基的固结性状分析[J].现代矿业,2018,34(04):205-207+209. \
-9、	徐金龙,胡万凤,李勇义.高速公路运营能效等级及评定方法研究[J].交通企业管理,2020,35(01):49-51.
+1、	Ma, L., Lan, Y., Li, Y., and Biao W. (2025). "A phase field model for coupling diffusion-deformation-fracture multi-physics in porous electrodes." Computational Materials Science 259: 114149 https://doi.org/10.1016/j.commatsci.2025.114149.(JCR Q2 IF=3.3) \
+2、Li Y., Long X. and Lu J. (2023) Evaluation of geothermal resources potential in the uplifted mountain of Guangdong province using the Monte Carlo simulation. Front. Earth Sci. 11:1233026. https://doi.org/10.3389/feart.2023.1233026 (JCR Q3 IF=2.9)\
+3、Li Y., Ghaffar Ali and Abdul Rehman Akbar(2023).Advances in geothermal energy prospectivity mapping research based on machine learning in the age of big data. Sustainable Energy Technologies and Assessments. https://doi.org/10.1016/j.seta.2023.103550 (JCR Q1 IF=8) \
+4、	Akbar, A. R; Peng, G.; Li, Y.; Iqbal, R.; Saleem, A.; Wang, G.; Khan, A. S.; Ali, M.; Tahir, M.; Assiri, M. A.; Ali, G.; Liu, F. Hierarchical NiCo@NiOOH@CoMoO4 Core–Shell Heterostructure on Carbon Cloth for High-Performance Asymmetric Supercapacitors. Small 2023, 2304686. https://doi.org/10.1002/smll.202304686 (JCR Q1 IF=13.3)\
+5、	Xiong Y ,  Zhu M ,  Li Y , et al. Recognition of Geothermal Surface Manifestations: A Comparison of Machine Learning and Deep Learning[J]. Energies, 2022, 15. https://doi.org/10.3390/en15082913 (JCR Q3 IF=3.2)\
+6、	李勇义,冯健雪,梅国雄.连续排水边界下梯形循环荷载作用的一维固结解析解[J].工程力学,2019(02):134-140. (EI收录)\
+7、	冯健雪,陈征,李勇义,梅国雄. 连续排水边界条件下考虑自重的地基一维固结分析[J].工程力学,2019,36(05):184-191. (EI收录)\
+8、	冯健雪,陈征,李勇义,梅国雄. 连续排水边界条件下线性加载地基一维固结解[J].工程力学,2019,36(06):219-226. (EI收录)\
+9、	张国英,李勇义,李康. 连续排水边界下一维均质地基的固结性状分析[J].现代矿业,2018,34(04):205-207+209. \
+10、	徐金龙,胡万凤,李勇义.高速公路运营能效等级及评定方法研究[J].交通企业管理,2020,35(01):49-51.
 
 Patents and Software Copyrights 
 ======
