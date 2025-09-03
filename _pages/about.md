@@ -13,7 +13,7 @@ I am currently an Postdoctoral Researcher in [Dongguan University of Technology(
 
 Research Interests
 ======
-My research interest focus on the methods and applications of thermo-mechanical-chemical-hydraulic multi-field coupling theory and multi-scale analysis in the development of renewable energy
+My research interest focus on the methods and applications of thermo-mechanical-chemical-hydraulic multipysical coupling theory and multiscale analysis in renewable energy and composites materials
 
 Academic Appointments
 ======
